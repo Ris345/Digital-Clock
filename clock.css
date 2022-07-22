@@ -1,0 +1,14 @@
+html{
+    background-color:aquamarine;
+    color: black;
+    font-size: x-large;
+}
+
+
+
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column;
+}
