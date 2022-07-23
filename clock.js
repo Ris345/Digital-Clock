@@ -66,9 +66,13 @@ if (date === 1 || date === 21 || date === 31){
     date += 'st'
 } else if (date === 2 || date === 22 ){
     date += 'nd'
+} else if (date === 3 || date === 23){
+    date += 'rd'
 } else {
     date += 'th'
 }
+
+
 
 
 
