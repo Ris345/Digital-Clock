@@ -1,9 +1,20 @@
+#   Digital Clock  APP
 
-This is a Digital Clock that functions like a ticking clock. 
+### Simple Digital Clock  app made with Vanilla JavaScript, HTML and CSS.
 
-1. The seconds update every second just like a ticking  clock. 
-2. The Clock is in AM/PM format and displays time in HH:MM:SS format. 
-3. It displays Date in DD:MM:YY format. 
-4. The clock also displays the day of the week and month gets the name of the month.
-5. The clock also automatically updates the date with  nd,th and rd corresponding to the date.
+![Clock](./Digital%20Clock.png)
 
+
+
+# Click here for the application 
+
+[Digital Clock](https://ris345.github.io/DigitalClock.github.io/)
+
+
+
+
+## Summary
+  Digital Clock functions like a ticking clock, updates time, day, month and year. 
+## Author
+
+### Rishav Dev Acharya - Full Stack Software Developer  [Linkedin](https://www.linkedin.com/in/rishav-acharya-0482051a7/)
