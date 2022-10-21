@@ -6,9 +6,9 @@
 
 
 
-# Click here for the application 
+# Click here for the application  [Digital Clock](https://ris345.github.io/DigitalClock.github.io/)
 
-[Digital Clock](https://ris345.github.io/DigitalClock.github.io/)
+
 
 
 
