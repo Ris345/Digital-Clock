@@ -6,7 +6,7 @@
 
 
 
-# Click here for the application  [Digital Clock](https://ris345.github.io/DigitalClock.github.io/)
+  [Click here for the App](https://ris345.github.io/DigitalClock.github.io/)
 
 
 
